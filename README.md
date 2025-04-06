@@ -1,85 +1,57 @@
-<!-- Animated Banner -->
+<!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shyam+Sahu;Cloud+DevOps+Engineer+from+Pune%2C+India;I+%E2%9D%A4%EF%B8%8F+Automation+%7C+CI%2FCD+%7C+Cloud+Infra;Let's+Build+Something+Awesome!+%F0%9F%9A%80" alt="Typing SVG" />
-  <img src="assets/A_GitHub_README_profile_graphic_introduces_Shyam_S.png" width="100%" alt="Shyam Sahu - DevOps Banner" />
-
 </h1>
 
-<h3 align="center">🚀 DevOps | Terraform | Kubernetes | Jenkins | AWS | CI/CD Automator</h3>
+<h3 align="center">🚀 DevOps | Terraform | Kubernetes | Jenkins | AWS | CI/CD Enthusiast</h3>
 
 ---
 
-### 🧑‍💻 About Me
+### 💫 About Me
 
-🔧 Cloud DevOps Engineer passionate about automating everything – from infrastructure to delivery pipelines  
-☁️ I specialize in building reliable, scalable, and secure cloud-native solutions  
-💡 Focused on delivering fast, repeatable, and automated deployments using GitOps, IaC, and DevSecOps practices  
-📍 Pune, India | 📬 shyam.sahu.it@gmail.com
-
----
-
-### 🛠️ My DevOps Toolbox
-
-| CI/CD & GitOps     | Containers & Orchestration | Infra as Code        | Cloud & Security        | Monitoring & Code Quality |
-|--------------------|----------------------------|-----------------------|--------------------------|----------------------------|
-| Jenkins, GitHub Actions, ArgoCD | Docker, Kubernetes, Helm       | Terraform, Ansible        | AWS (EC2, EKS, IAM, VPC), AWS Secrets Manager | SonarQube, Prometheus, Grafana |
+🔧 I'm a passionate **Cloud DevOps Engineer** who loves building scalable and secure infrastructure  
+🚀 Skilled in automating complex CI/CD pipelines with modern DevOps tools  
+💡 Believer in **"Automate Everything"** philosophy  
+📍 Based in **Pune, India**  
+📬 Email: **shyam.sahu.it@gmail.com**
 
 ---
 
-### 🔄 What I Do (Real Use Cases)
+### 🧰 DevOps Toolchain
 
-✅ Setup GitOps-based pipelines using GitHub + Jenkins + ArgoCD  
-✅ Automate Infra provisioning with **Terraform modules** across environments  
-✅ Implement secure Kubernetes deployments with RBAC, Secrets & Ingress  
-✅ Build reusable Helm charts for microservices  
-✅ Integrate SonarQube for code quality + Prometheus for metrics  
-✅ Optimize AWS costs and autoscale workloads using HPA + ASG
+| CI/CD         | Containerization | IaC             | Monitoring & Code Quality | Cloud      | VCS & Scripting |
+|---------------|------------------|------------------|----------------------------|------------|-----------------|
+| Jenkins       | Docker           | Terraform        | SonarQube, Prometheus      | AWS        | GitHub, Bash, Python |
+| GitHub Actions| Kubernetes (K8s) | Ansible, Helm    | Grafana, ELK Stack         |            |                 |
 
 ---
 
-### 💼 Featured Projects (Mini Case Teasers)
+### 🛠️ Skills & Tools
 
-1. **AWS EKS CI/CD Pipeline with Jenkins & Terraform**  
-   *Deployed a complete EKS infra with autoscaling + GitOps deployment using Jenkins & ArgoCD*  
-   **Tools**: AWS, EKS, Terraform, Jenkins, Helm
-
-2. **Dockerized Flask App with GitHub Actions**  
-   *Containerized and auto-deployed a Python app to EC2 using GitHub Actions*  
-   **Tools**: Docker, GitHub Actions, AWS EC2
-
-3. **Multi-Env Infrastructure with Terraform Modules**  
-   *Created reusable modules to spin up dev/staging/prod on AWS with complete VPC + EC2 setup*  
-   **Tools**: Terraform, AWS
-
-> *(Add more when you share links)*
+- ⚙️ Linux, Bash
+- ☁️ AWS (EC2, S3, RDS, EKS, IAM, VPC, etc.)
+- 🐳 Docker, 🧱 Kubernetes, 🧩 Helm
+- 📦 Terraform, 🧰 Ansible
+- 🔧 Jenkins, GitHub Actions
+- 🔍 SonarQube, Prometheus, Grafana
+- 📂 Git, GitHub, GitOps
+- 🐍 Python scripting
 
 ---
 
-### 🎯 My DevOps Superpowers
-
-✅ Infrastructure as Code | GitOps | DevSecOps  
-✅ CI/CD Pipelines with Quality Gates & Auto Rollbacks  
-✅ Cluster Management & Auto Healing with K8s  
-✅ Agile Team Collaboration using Jira, GitHub Projects
-
----
-
-### 🧠 Current Learning
-
-- ✅ Advanced Helm Charting
-- ✅ Security in DevOps (DevSecOps)
-- ✅ Serverless with AWS Lambda + Terraform
-- ✅ Kubernetes Networking & Service Mesh (Istio)
-
----
-
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="170" />
 </p>
+
+---
+
+### 🏗️ Featured Projects
+
+📌 *Coming Soon – Your top DevOps projects will be listed here with short highlights!*
 
 ---
 
@@ -105,4 +77,4 @@
 
 ---
 
-> 🧠 “Build it. Automate it. Monitor it. Repeat.” – *Shyam Sahu*
+> 🧠 “Infrastructure as Code, Pipelines as Passion, and Automation as Art.” – Shyam Sahu
