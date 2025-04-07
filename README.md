@@ -28,30 +28,37 @@
 
 ### 🛠️ Skills & Tools
 
-- ⚙️ Linux, Bash
-- ☁️ AWS (EC2, S3, RDS, EKS, IAM, VPC, etc.)
-- 🐳 Docker, 🧱 Kubernetes, 🧩 Helm
-- 📦 Terraform, 🧰 Ansible
-- 🔧 Jenkins, GitHub Actions
-- 🔍 SonarQube, Prometheus, Grafana
-- 📂 Git, GitHub, GitOps
-- 🐍 Python scripting
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="170" />
-</p>
+- ⚙️ Linux, Bash  
+- ☁️ AWS (EC2, S3, RDS, EKS, IAM, VPC, etc.)  
+- 🐳 Docker, 🧱 Kubernetes, 🧩 Helm  
+- 📦 Terraform, 🧰 Ansible  
+- 🔧 Jenkins, GitHub Actions  
+- 🔍 SonarQube, Prometheus, Grafana  
+- 📂 Git, GitHub, GitOps  
+- 🐍 Python scripting  
 
 ---
 
 ### 🏗️ Featured Projects
 
-📌 *Coming Soon – Your top DevOps projects will be listed here with short highlights!*
+🌀 **Cloud Cost Optimization System**  
+Built with **AWS Lambda**, **CloudWatch**, and **Python** – identifies stale resources and notifies or deletes them to save cost.
+
+🎮 **Game Deployment on AWS EKS Fargate**  
+Used **Ingress Controller**, **AWS ELB Controller**, and **Kubernetes** to deploy a containerized multiplayer game on EKS Fargate.
+
+📚 **Course Selling Website Deployment**  
+CI/CD pipeline using **GitHub Actions**, **Docker Multi-stage**, **EKS**, **Nginx Ingress**, **Helm**, and **ArgoCD**.
+
+---
+
+### 🎮 Play a Snack Game!
+
+<p align="center">
+  <a href="https://snake-arcade.vercel.app/" target="_blank">
+    <img alt="Play Snake Game" src="https://img.shields.io/badge/Snake_Game-Play_Now-orange?style=for-the-badge&logo=funimation" />
+  </a>
+</p>
 
 ---
 
@@ -61,10 +68,10 @@
   <a href="mailto:shyam.sahu.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/shyam-sahu-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/shyam-dev30" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
