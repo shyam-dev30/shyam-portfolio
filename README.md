@@ -43,17 +43,17 @@
  🚀 **1. AWS Cost Optimization using Lambda & CloudWatch**
 - Automated stale resource cleanup to save AWS cost
 - 💡 Used: AWS Lambda (Python), CloudWatch, SNS
-- 🔗 [GitHub Repo](https://github.com/shyam-dev30/aws-cost-optimizer) *(replace with actual repo)*
+- 🔗 [GitHub Repo](https://github.com/shyam-dev30/aws-cost-optimization-stale-resources.git)
 
 🎮 **2. Game Deployment on AWS EKS with Ingress**
 - Deployed a containerized game using AWS EKS with Fargate
 - 💡 Used: EKS, Fargate, Ingress, AWS ELB Controller
-- 🔗 [GitHub Repo](https://github.com/shyam-dev30/eks-game-deploy) *(replace with actual repo)*
+- 🔗 [GitHub Repo](https://github.com/shyam-dev30/Deploy_Game_App_On_EKS_Fargate.git)
 
 📚 **3. DevOps Course Selling Website Deployment**
 - CI/CD pipeline with GitHub Actions, ArgoCD, Helm
 - 💡 Used: Docker (multi-stage), EKS, NGINX, Helm, ArgoCD, GitHub Actions
-- 🔗 [GitHub Repo](https://github.com/shyam-dev30/devops-course-platform) *(replace with actual repo)*
+- 🔗 [GitHub Repo](https://github.com/shyam-dev30/go-web-app-devops.git)
 ---
 
 ### 🎮 Play a Snack Game!
