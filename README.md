@@ -56,13 +56,10 @@
 - 🔗 [GitHub Repo](https://github.com/shyam-dev30/go-web-app-devops.git)
 ---
 
-### 🎮 Play a Snack Game!
+### 🐍 Watch My Contribution Snake
 
-<p align="center">
-  <a href="https://snake-arcade.vercel.app/" target="_blank">
-    <img alt="Play Snake Game" src="https://img.shields.io/badge/Snake_Game-Play_Now-orange?style=for-the-badge&logo=funimation" />
-  </a>
-</p>
+![snake gif](https://github.com/shyam-dev30/shyam-dev30/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
