@@ -58,7 +58,7 @@
 
 ### 🐍 Watch My Contribution Snake
 
-![snake gif](https://github.com/shyam-dev30/shyam-dev30/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shyam-dev30/shyam-dev30/.github/workflows/snake.yml)
 
 
 ---
