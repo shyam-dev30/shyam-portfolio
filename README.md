@@ -19,21 +19,20 @@
 
 ### 🧰 DevOps Toolchain
 
-| CI/CD         | Containerization | IaC             | Monitoring & Code Quality | Cloud      | VCS & Scripting |
-|---------------|------------------|------------------|----------------------------|------------|-----------------|
-| Jenkins       | Docker           | Terraform        | SonarQube, Prometheus      | AWS        | GitHub, Bash, Python |
-| GitHub Actions| Kubernetes (K8s) | Ansible, Helm    | Grafana, ELK Stack         |            |                 |
-
+| CI/CD         | Containerization | IaC             | Monitoring & Code Quality | Cloud      | VCS & Scripting |    O/S     |
+|---------------|------------------|------------------|----------------------------|------------|-----------------|-----------|
+| Jenkins       | Docker           | Terraform        | SonarQube, Prometheus      | AWS        | GitHub, Bash    | Linux     |
+| GitHub Actions| Kubernetes (K8s) | Ansible          | Grafana, ELK Stack         |            | Python          | Windows   |
+| ArgoCD        | Helm             |                  | CloudWatch , SonarQube     |            |                 |           | 
 ---
-
 ### 🛠️ Skills & Tools
 
 - ⚙️ Linux, Bash  
-- ☁️ AWS (EC2, S3, RDS, EKS, IAM, VPC, etc.)  
+- ☁️ AWS (IAM,EC2, VPC, S3, RDS, EKS, ROUTE53, CLOUDFRONT, ECS etc.)  
 - 🐳 Docker, 🧱 Kubernetes, 🧩 Helm  
 - 📦 Terraform, 🧰 Ansible  
-- 🔧 Jenkins, GitHub Actions  
-- 🔍 SonarQube, Prometheus, Grafana  
+- 🔧 Jenkins, GitHub Actions, ArgoCD 
+- 🔍 SonarQube, Prometheus, Grafana, ELK Stack
 - 📂 Git, GitHub, GitOps  
 - 🐍 Python scripting  
 
